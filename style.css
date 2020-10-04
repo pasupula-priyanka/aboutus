@@ -1,0 +1,27 @@
+.team-section{
+    overflow: hidden;
+    text-align: center;
+    padding: 60px;
+  }
+  img {
+    height: 300px;
+    margin: 20px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 350px;
+    align-items: center;
+  }
+  .ps2{
+    height: 200px;
+    margin: 20px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+    align-items: center;
+  }
+  
+  .team-section h1{
+    text-transform: uppercase;
+    margin-bottom: 60px;
+    font-size: 40px;
+  }
